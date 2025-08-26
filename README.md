@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on an industry leading B2B ecommerce website and have applied my skills to create and publish unique features, custom styling and applied fixes.
 - 🌱 I’m currently learning about Software Development, Python, API's & More
-- 🧑‍🎓 I've enrolled into NorthCoders Software Development Bootcamp and will begin enhancing my education mid July!
+- 🧑‍🎓 I've enrolled into NorthCoders Software Development Bootcamp, learning frontend and backend technologies with JavaScript! Due to graduate late November.
 
 <!--
 **NueSkull/NueSkull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
