@@ -1,6 +1,6 @@
 ## Hi there, I'm Mark 👋
 
-- 🔭 I’m currently working on a massive ecommerce website and have applied my skills to create and publish unique features and applied fixes.
+- 🔭 I’m currently working on an industry leading B2B ecommerce website and have applied my skills to create and publish unique features, custom styling and applied fixes.
 - 🌱 I’m currently learning about Software Development, Python, API's & More
 - 🧑‍🎓 I've enrolled into NorthCoders Software Development Bootcamp and will begin enhancing my education mid July!
 
